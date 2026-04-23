@@ -133,4 +133,6 @@ int main()
         cout << "\nMasukkan pilihan (1-5): ";
         cin >> ch;
 
-        
+        switch (ch)
+        {
+            
